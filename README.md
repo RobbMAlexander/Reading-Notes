@@ -14,4 +14,4 @@
 ```
 
 
-## Relf-referential Link : [This Page](https://github.com/RobbMAlexander/Reading-Notes/blob/main/README.md)
+## Relf-referential Link : [This Page](https://robbmalexander.github.io/Reading-Notes/)
