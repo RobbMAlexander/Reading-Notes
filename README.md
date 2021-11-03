@@ -13,4 +13,4 @@
 ```
 
 
-## Self-referential Link : [as described here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+##  [as described here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
