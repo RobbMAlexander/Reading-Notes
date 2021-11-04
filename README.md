@@ -9,9 +9,9 @@ Growth Mindset ([as described here](https://www.atlassian.com/blog/inside-atlass
 
 Reminders for my own growth-mindset mentality:
 ```
-* Set small, short-term goals
-* Recognize progress I have already made in skills and understanding
-* Emphasize role of good habits in success (not just strong comprehension) 
+- Set small, short-term goals
+- Recognize progress I have already made in skills and understanding
+- Emphasize role of good habits in success (not just strong comprehension) 
 ```
 
 
