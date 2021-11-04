@@ -1,6 +1,8 @@
-# Reading-Notes
+# 102 Reading-Notes
 
 ## **Class 01 Notes-in-Practice: Growth Mindset and .md Formatting**
+
+#### Hi! I'm Robb (He/Him). I 
 
 ### Growth Mindset: Practice Makes ~~Perfect~~ Progress
 
@@ -9,9 +11,9 @@ Growth Mindset ([as described here](https://www.atlassian.com/blog/inside-atlass
 
 Reminders for my own growth-mindset mentality:
 ```
-- Set small, short-term goals
-- Recognize progress I have already made in skills and understanding
-- Emphasize role of good habits in success (not just strong comprehension) 
+:microscope: Set small, short-term goals in addition to broad ones
+:hiking_boot: Recognize progress I have already made in skills and understanding
+:repeat: Emphasize role of good habits in success (not just strong comprehension) 
 ```
 
 
