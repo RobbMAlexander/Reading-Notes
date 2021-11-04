@@ -18,4 +18,4 @@ Reminders for my own growth-mindset mentality: :microscope: :hiking_boot: :repea
 
 
 
-[^1]:  [As seen here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[^1]:  [As described here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
