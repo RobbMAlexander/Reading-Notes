@@ -5,8 +5,8 @@
 ## Contents:
 
 ### 102 Reading Notes:
-* [Unit 1a](https://robbmalexander.github.io/Reading-Notes/102-01a/
-* [Unit 1b](https://robbmalexander.github.io/Reading-Notes/102-01b/
-* [Unit 2](https://robbmalexander.github.io/Reading-Notes/102-02/
-* [Unit 3](https://robbmalexander.github.io/Reading-Notes/102-03/
-* [Unit 4](https://robbmalexander.github.io/Reading-Notes/102-04/
+* [Unit 1a](https://robbmalexander.github.io/Reading-Notes/102-01a/)
+* [Unit 1b](https://robbmalexander.github.io/Reading-Notes/102-01b/)
+* [Unit 2](https://robbmalexander.github.io/Reading-Notes/102-02/)
+* [Unit 3](https://robbmalexander.github.io/Reading-Notes/102-03/)
+* [Unit 4](https://robbmalexander.github.io/Reading-Notes/102-04/)
