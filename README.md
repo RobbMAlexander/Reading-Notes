@@ -13,3 +13,4 @@
 * [Unit 5: CSS & Stylistic Web Design](https://robbmalexander.github.io/Reading-Notes/102-05/)
 * [Unit 6: Activiate Web Pages With JavaScript](https://robbmalexander.github.io/Reading-Notes/102-06/)
 * [Unit 7: Programming With JavaScript](https://robbmalexander.github.io/Reading-Notes/102-07/)
+* [Unit 8: Operators & Loops](https://robbmalexander.github.io/Reading-Notes/102-08/)
