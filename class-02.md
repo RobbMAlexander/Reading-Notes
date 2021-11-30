@@ -18,7 +18,7 @@ permalink: /201-R2/
 
 * Semantic Markup: Used to describe or communicate about content for data or other programmatic interpretation rather than user view (eg: `<cite>`;`<strong>`)
 
-### CSS (see also [102 Reading Notes](https://robbmalexander.github.io/Reading-Notes/201-R5/))
+### CSS (see also [102 Reading Notes](https://robbmalexander.github.io/Reading-Notes/102-05/))
 
 * Cascading Style Sheets: controls visuals of content and text
 
@@ -26,7 +26,7 @@ permalink: /201-R2/
 
 * Cascading priority: Marked Important (`!important`); More Specific; Later
 
-### JavaScript (see also [102 Reading Notes](https://robbmalexander.github.io/Reading-Notes/201-R6/))
+### JavaScript (see also [102 Reading Notes](https://robbmalexander.github.io/Reading-Notes/102-06/))
 
 * Anatomy: **Statements** (individual instructions) separated by `;`'s; **Code Blocks** separated by curled braces (which may contain multiple statements)
 
