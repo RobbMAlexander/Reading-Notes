@@ -4,6 +4,23 @@
 
 ## Contents:
 
+### 301 Notes
+* [Reading 1: ](https://robbmalexander.github.io/Reading-Notes/301-R1/)
+* [Reading 2: ](https://robbmalexander.github.io/Reading-Notes/301-R2/)
+* [Reading 3: ](https://robbmalexander.github.io/Reading-Notes/301-R3/)
+* [Reading 4: ](https://robbmalexander.github.io/Reading-Notes/301-R4/)
+* [Reading 5: ](https://robbmalexander.github.io/Reading-Notes/301-R5/)
+* [Reading 6: ](https://robbmalexander.github.io/Reading-Notes/301-R6/)
+* [Reading 7: ](https://robbmalexander.github.io/Reading-Notes/301-R7/)
+* [Reading 8: ](https://robbmalexander.github.io/Reading-Notes/301-R8/)
+* [Reading 9: ](https://robbmalexander.github.io/Reading-Notes/301-R9/)
+* [Reading 10: ](https://robbmalexander.github.io/Reading-Notes/301-R10/)
+* [Reading 11: ](https://robbmalexander.github.io/Reading-Notes/301-R11/)
+* [Reading 12: ](https://robbmalexander.github.io/Reading-Notes/301-R12/)
+* [Reading 13: ](https://robbmalexander.github.io/Reading-Notes/301-R13/)
+* [Reading 14: ](https://robbmalexander.github.io/Reading-Notes/301-R14/)
+* [Reading 15: ](https://robbmalexander.github.io/Reading-Notes/301-R15/)
+
 ### 201 Notes:
 * [Reading 1: ](https://robbmalexander.github.io/Reading-Notes/201-R1/)
 * [Reading 2: ](https://robbmalexander.github.io/Reading-Notes/201-R2/)
