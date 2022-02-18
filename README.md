@@ -10,7 +10,7 @@
 * [Reading 2: Arrays, Loops, & Imports](https://robbmalexander.github.io/Reading-Notes/401-R02/)
 * [Reading 3: Maps, Primitives, & File I/O](https://robbmalexander.github.io/Reading-Notes/401-R03/)
 * [Reading 4: Object-Oriented Programming](https://robbmalexander.github.io/Reading-Notes/401-R04/)
-* [Reading 5](https://robbmalexander.github.io/Reading-Notes/401-R05/)
+* [Reading 5: Linked Lists & Efficiency](https://robbmalexander.github.io/Reading-Notes/401-R05/)
 * [Reading 6](https://robbmalexander.github.io/Reading-Notes/401-R06/)
 * [Reading 7](https://robbmalexander.github.io/Reading-Notes/401-R07/)
 * [Reading 8](https://robbmalexander.github.io/Reading-Notes/401-R08/)
