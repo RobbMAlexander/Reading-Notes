@@ -12,11 +12,21 @@
 * [Reading 4: Object-Oriented Programming](https://robbmalexander.github.io/Reading-Notes/401-R04/)
 * [Reading 5: Linked Lists & Efficiency](https://robbmalexander.github.io/Reading-Notes/401-R05/)
 * [Reading 6: Inheritance & Interfaces](https://robbmalexander.github.io/Reading-Notes/401-R06/)
-* [Reading 7: ](https://robbmalexander.github.io/Reading-Notes/401-R07/)
-* [Reading 8: ](https://robbmalexander.github.io/Reading-Notes/401-R08/)
-* [Reading 9](https://robbmalexander.github.io/Reading-Notes/401-R09/)
-* [Reading 10](https://robbmalexander.github.io/Reading-Notes/401-R10/)
-* [Reading 11](https://robbmalexander.github.io/Reading-Notes/401-R11/)
+* [Reading 7:](https://robbmalexander.github.io/Reading-Notes/401-R07/)
+* [Reading 8: OO Design](https://robbmalexander.github.io/Reading-Notes/401-R08/)
+* [Reading 9: Java WRRC](https://robbmalexander.github.io/Reading-Notes/401-R09/)
+* [Reading 10: Stacks & Queues](https://robbmalexander.github.io/Reading-Notes/401-R10/)
+* [Reading 11: Spring MVC](https://robbmalexander.github.io/Reading-Notes/401-R11/)
+* [Reading 12: REST & Routing in Spring](https://robbmalexander.github.io/Reading-Notes/401-R12/)
+* [Reading 13: Integration Tests](https://robbmalexander.github.io/Reading-Notes/401-R13/)
+* [Reading 14: ](https://robbmalexander.github.io/Reading-Notes/401-R14/)
+* [Reading 15: ](https://robbmalexander.github.io/Reading-Notes/401-R15/)
+* [Reading 16: ](https://robbmalexander.github.io/Reading-Notes/401-R16/)
+* [Reading 17: ](https://robbmalexander.github.io/Reading-Notes/401-R17/)
+* [Reading 18: ](https://robbmalexander.github.io/Reading-Notes/401-R18/)
+* [Reading 19: ](https://robbmalexander.github.io/Reading-Notes/401-R19/)
+* [Reading 20: ](https://robbmalexander.github.io/Reading-Notes/401-R20/)
+
 
 ### 301 Notes
 
