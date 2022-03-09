@@ -21,9 +21,9 @@
 * [Reading 13: Integration Tests](https://robbmalexander.github.io/Reading-Notes/401-R13/)
 * [Reading 14: BCrypt](https://robbmalexander.github.io/Reading-Notes/401-R14/)
 * [Reading 15:](https://robbmalexander.github.io/Reading-Notes/401-R15/)
-* [Reading 16: Spring Auth.](https://robbmalexander.github.io/Reading-Notes/401-R16/)
-* [Reading 17: ](https://robbmalexander.github.io/Reading-Notes/401-R17/)
-* [Reading 18: ](https://robbmalexander.github.io/Reading-Notes/401-R18/)
+* [Reading 16: Spring Authentication](https://robbmalexander.github.io/Reading-Notes/401-R16/)
+* [Reading 17: Spring Authorization](https://robbmalexander.github.io/Reading-Notes/401-R17/)
+* [Reading 18: Web App Security](https://robbmalexander.github.io/Reading-Notes/401-R18/)
 * [Reading 19: ](https://robbmalexander.github.io/Reading-Notes/401-R19/)
 * [Reading 20: ](https://robbmalexander.github.io/Reading-Notes/401-R20/)
 
