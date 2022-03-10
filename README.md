@@ -24,7 +24,7 @@
 * [Reading 16: Spring Authentication](https://robbmalexander.github.io/Reading-Notes/401-R16/)
 * [Reading 17: Spring Authorization](https://robbmalexander.github.io/Reading-Notes/401-R17/)
 * [Reading 18: Web App Security](https://robbmalexander.github.io/Reading-Notes/401-R18/)
-* [Reading 19: ](https://robbmalexander.github.io/Reading-Notes/401-R19/)
+* [Reading 19: Purely Functional Programming](https://robbmalexander.github.io/Reading-Notes/401-R19/)
 * [Reading 20: ](https://robbmalexander.github.io/Reading-Notes/401-R20/)
 
 
