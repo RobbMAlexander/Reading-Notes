@@ -25,7 +25,11 @@
 * [Reading 17: Spring Authorization](https://robbmalexander.github.io/Reading-Notes/401-R17/)
 * [Reading 18: Web App Security](https://robbmalexander.github.io/Reading-Notes/401-R18/)
 * [Reading 19: Purely Functional Programming](https://robbmalexander.github.io/Reading-Notes/401-R19/)
-* [Reading 20: ](https://robbmalexander.github.io/Reading-Notes/401-R20/)
+* [Reading 26: Android Fundamentals](https://robbmalexander.github.io/Reading-Notes/401-R26/)
+* [Reading 27: ](https://robbmalexander.github.io/Reading-Notes/401-R27/)
+* [Reading 28: ](https://robbmalexander.github.io/Reading-Notes/401-R28/)
+* [Reading 29: ](https://robbmalexander.github.io/Reading-Notes/401-R29/)
+* [Reading 30: ](https://robbmalexander.github.io/Reading-Notes/401-R30/)
 
 
 ### 301 Notes
