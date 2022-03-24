@@ -28,7 +28,7 @@
 * [Reading 26: Android Fundamentals](https://robbmalexander.github.io/Reading-Notes/401-R26/)
 * [Reading 27: Intents, Activities, SharedPreferences](https://robbmalexander.github.io/Reading-Notes/401-R27/)
 * [Reading 28: RecyclerView](https://robbmalexander.github.io/Reading-Notes/401-R28/)
-* [Reading 29: ](https://robbmalexander.github.io/Reading-Notes/401-R29/)
+* [Reading 29: Room](https://robbmalexander.github.io/Reading-Notes/401-R29/)
 * [Reading 30: ](https://robbmalexander.github.io/Reading-Notes/401-R30/)
 
 
