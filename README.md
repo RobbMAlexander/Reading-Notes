@@ -30,7 +30,7 @@
 * [Reading 28: RecyclerView](https://robbmalexander.github.io/Reading-Notes/401-R28/)
 * [Reading 29: Room](https://robbmalexander.github.io/Reading-Notes/401-R29/)
 * [Reading 31: Espresso](https://robbmalexander.github.io/Reading-Notes/401-R30/)
-* [Reading 32: ](https://robbmalexander.github.io/Reading-Notes/401-R30/)
+* [Reading 32: Serverless & Amplify](https://robbmalexander.github.io/Reading-Notes/401-R30/)
 * [Reading 33: ](https://robbmalexander.github.io/Reading-Notes/401-R30/)
 * [Reading 34: ](https://robbmalexander.github.io/Reading-Notes/401-R30/)
 
