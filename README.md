@@ -32,8 +32,7 @@
 * [Reading 31: Espresso](https://robbmalexander.github.io/Reading-Notes/401-R31/)
 * [Reading 32: Serverless & Amplify](https://robbmalexander.github.io/Reading-Notes/401-R32/)
 * [Reading 33: GraphQL](https://robbmalexander.github.io/Reading-Notes/401-R33/)
-* [Reading 34: ](https://robbmalexander.github.io/Reading-Notes/401-R34/)
-
+* [Reading 34: Monetization](https://robbmalexander.github.io/Reading-Notes/401-R34/)
 
 ### 301 Notes
 
