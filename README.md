@@ -33,6 +33,11 @@
 * [Reading 32: Serverless & Amplify](https://robbmalexander.github.io/Reading-Notes/401-R32/)
 * [Reading 33: GraphQL](https://robbmalexander.github.io/Reading-Notes/401-R33/)
 * [Reading 34: Monetization](https://robbmalexander.github.io/Reading-Notes/401-R34/)
+* [Reading 36: Cognito](https://robbmalexander.github.io/Reading-Notes/401-R36/)
+* [Reading 37: ](https://robbmalexander.github.io/Reading-Notes/401-R37/)
+* [Reading 38: ](https://robbmalexander.github.io/Reading-Notes/401-R38/)
+* [Reading 39: ](https://robbmalexander.github.io/Reading-Notes/401-R39/)
+* [Reading 40: ](https://robbmalexander.github.io/Reading-Notes/401-R40/)
 
 ### 301 Notes
 
