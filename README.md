@@ -36,7 +36,7 @@
 * [Reading 36: Cognito](https://robbmalexander.github.io/Reading-Notes/401-R36/)
 * [Reading 37: S3](https://robbmalexander.github.io/Reading-Notes/401-R37/)
 * [Reading 38: Intent Filters](https://robbmalexander.github.io/Reading-Notes/401-R38/)
-* [Reading 39: ](https://robbmalexander.github.io/Reading-Notes/401-R39/)
+* [Reading 39: Device Location](https://robbmalexander.github.io/Reading-Notes/401-R39/)
 * [Reading 40: ](https://robbmalexander.github.io/Reading-Notes/401-R40/)
 
 ### 301 Notes
