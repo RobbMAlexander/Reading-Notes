@@ -40,7 +40,7 @@
 * [Reading 41: Analytics & Text-to-Speech](https://robbmalexander.github.io/Reading-Notes/401-R41/)
 * [Reading 39: Device Location](https://robbmalexander.github.io/Reading-Notes/401-R39/)
 * [Reading 41: Analytics & Text-to-Speech](https://robbmalexander.github.io/Reading-Notes/401-R41/)
-* [Reading 42: ](https://robbmalexander.github.io/Reading-Notes/401-R42/)
+* [Reading 42: AdMob](https://robbmalexander.github.io/Reading-Notes/401-R42/)
 * [Reading 43: ](https://robbmalexander.github.io/Reading-Notes/401-R43/)
 
 ### 301 Notes
